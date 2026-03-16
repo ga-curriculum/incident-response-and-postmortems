@@ -2,7 +2,7 @@
 
 ## Module Overview
 
-In this module, students learn how to manage the chaos of a production failure in an AI system. The focus is on how teams prepare for, respond to, and learn from incidents. A key differentiator in this curriculum is teaching mid-career professionals that AI incidents are often "silent" (e.g., data drift, prediction skew) rather than noisy server crashes. Learners will practise documenting root causes and designing postmortems that drive systemic improvements.
+In this module, students learn how to manage the chaos of a production failure in an AI system. The focus is on how teams prepare for, respond to, and learn from incidents. A key differentiator in this curriculum is teaching professionals that AI incidents are often "silent" (e.g., data drift, prediction skew) rather than noisy server crashes. Learners will practise documenting root causes and designing postmortems that drive systemic improvements.
 
 ## Learning Objectives
 
