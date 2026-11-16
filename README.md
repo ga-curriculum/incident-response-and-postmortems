@@ -136,9 +136,9 @@ When a production system fails, you cannot safely investigate the bug on the liv
 
 > [!NOTE]
 >
-> [**Lab: Post-Mortem Simulation**](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-6-post-mortem-simulation) 
+> [**Lab: Post-Mortem Simulation**](https://github.com/ga-curriculum/lab-6-post-mortem-simulation) 
 > 
-> **Note**: Please refer to the dedicated [**Lab Guide**](https://git.generalassemb.ly/ai-systems-engineering-reliability/lab-6-post-mortem-simulation) 
+> **Note**: Please refer to the dedicated [**Lab Guide**](https://github.com/ga-curriculum/lab-6-post-mortem-simulation) 
  for full instructions, architectural constraints, and deliverables.
 
 -----
